@@ -1,4 +1,4 @@
-# Data Analysis | The Movie Database (TMDb)
+### Data Analysis | The Movie Database (TMDb)
 
 The data selected for the analysis contains information about 10,000 movies collected from The Movie Database (TMDb). There are information regarding title, release year, genre, budget, popularity, average vote etc.
 
